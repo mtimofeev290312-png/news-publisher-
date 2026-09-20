@@ -1,0 +1,15 @@
+{
+  "channels": [
+    {
+      "name": "Зумерские новости",
+      "chat_id": "@zumerinovosti",
+      "topic": "зумерскиеновости",
+      "emoji": "⚡",
+      "sources": [
+        "https://www.theverge.com/rss/index.xml",
+        "https://techcrunch.com/feed/",
+        "https://www.socialmediatoday.com/feeds/news/"
+      ]
+    }
+  ]
+}
